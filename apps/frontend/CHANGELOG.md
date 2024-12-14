@@ -1,5 +1,12 @@
 # frontend
 
+## 1.1.30
+
+### Patch Changes
+
+- 27d0a76: SOV-4618: Adjust governor in proclamation proposals
+- ca6d064: SOV-4569: Adjust convert gas limit
+
 ## 1.1.29
 
 ### Patch Changes
